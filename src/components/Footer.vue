@@ -23,9 +23,7 @@
         <!-- 站点备案 -->
         <span>
           &amp;
-          <a v-if="siteIcp" class="hover:underline" href="https://icp.gov.moe/?keyword=20240729" target="_blank">
-      <span class="icon-MOE"/>萌ICP备20240729号
-    </a>
+          <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20240729" target="_blank">
           {{ siteIcp }}
           </a>
         </span>
