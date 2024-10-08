@@ -23,8 +23,10 @@
         <!-- 站点备案 -->
         <span>
           &amp;
-          <a className='hover:underline' href="https://icp.gov.moe/?keyword=20240729" target="_blank"><span className="icon-MOE"/>萌ICP备20240729号</a>
-            {{ siteIcp }}
+          <a v-if="siteIcp" class="hover:underline" href="https://icp.gov.moe/?keyword=20240729" target="_blank">
+      <span class="icon-MOE"/>萌ICP备20240729号
+    </a>
+          {{ siteIcp }}
           </a>
         </span>
       </div>
