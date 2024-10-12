@@ -2,17 +2,22 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.kafuchino.top/"
+    "link": "https://blog.kafuchino.top"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://yun.kafuchino.top/"
+    "link": "https://yun.kafuchino.top"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.kafuchino.top/"
+    "link": "https://hot.kafuchino.top"
+  },
+    {
+    "icon": "Compass",
+    "name": "AI绘画",
+    "link": "https://ai.kafuchino.top"
   },
   {
     "icon": "LaptopCode",
