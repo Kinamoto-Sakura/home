@@ -23,7 +23,7 @@
         <!-- 站点备案 -->
         <span>
           &amp;
-          <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20240729" target="_blank">
+          <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20247888" target="_blank">
           {{ siteIcp }}
           </a>
         </span>
