@@ -27,6 +27,35 @@
   {
     "icon": "Book",
     "name": "友链",
-    "link": "https://blog.kafuchino.top/friends"
+    "link": "https://blog.kafuchino.top/friends",
+      {
+    "icon": "LaptopCode",
+    "name": "It工具",
+    "link": "https://tools.kafuchino.top"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "在线绘图",
+    "link": "https://draw.kafuchino.top"
+  },
+  {
+    "icon": "Blog",
+    "name": "科学计算器",
+    "link": "https://calc.kafuchino.top"
+  },
+    {
+    "icon": "Fire",
+    "name": "谷歌搜索",
+    "link": "https://google.kafuchino.top"
+  },
+  {
+    "icon": "Cloud",
+    "name": "随机壁纸",
+    "link": "https://image.api.kafuchino.top/api"
+  },
+  {
+    "icon": "Compass",
+    "name": "Mikutap",
+    "link": "https://mikutap.edgeone.site"
   }
 ]
