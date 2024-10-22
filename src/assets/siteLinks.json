@@ -1,61 +1,62 @@
 [
-  {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.kafuchino.top"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://yun.kafuchino.top"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://dailyhot.kafuchino.top"
-  },
-    {
-    "icon": "Compass",
-    "name": "AI绘画",
-    "link": "https://ai.kafuchino.top"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "探针",
-    "link": "https://status.kafuchino.top"
-  },
-  {
-    "icon": "Book",
-    "name": "友链",
-    "link": "https://blog.kafuchino.top/friends",
-      {
-    "icon": "LaptopCode",
-    "name": "It工具",
-    "link": "https://tools.kafuchino.top"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "在线绘图",
-    "link": "https://draw.kafuchino.top"
-  },
-  {
-    "icon": "Blog",
-    "name": "科学计算器",
-    "link": "https://calc.kafuchino.top"
-  },
-    {
-    "icon": "Fire",
-    "name": "谷歌搜索",
-    "link": "https://google.kafuchino.top"
-  },
-  {
-    "icon": "Cloud",
-    "name": "随机壁纸",
-    "link": "https://image.api.kafuchino.top/api"
-  },
-  {
-    "icon": "Compass",
-    "name": "Mikutap",
-    "link": "https://mikutap.edgeone.site"
-  }
+   {
+      "icon": "Blog",
+      "link": "https://blog.kafuchino.top",
+      "name": "博客"
+   },
+   {
+      "icon": "Cloud",
+      "link": "https://yun.kafuchino.top",
+      "name": "网盘"
+   },
+   {
+      "icon": "Fire",
+      "link": "https://dailyhot.kafuchino.top",
+      "name": "今日热榜"
+   },
+   {
+      "icon": "Compass",
+      "link": "https://ai.kafuchino.top",
+      "name": "AI绘画"
+   },
+   {
+      "icon": "LaptopCode",
+      "link": "https://status.kafuchino.top",
+      "name": "探针"
+   },
+   {
+      "icon": "Book",
+      "link": "https://blog.kafuchino.top/friends",
+      "name": "友链"
+   },
+   {
+      "icon": "LaptopCode",
+      "link": "https://tools.kafuchino.top",
+      "name": "It工具"
+   },
+   {
+      "icon": "CompactDisc",
+      "link": "https://draw.kafuchino.top",
+      "name": "在线绘图"
+   },
+   {
+      "icon": "Blog",
+      "link": "https://calc.kafuchino.top",
+      "name": "科学计算器"
+   },
+   {
+      "icon": "Fire",
+      "link": "https://google.kafuchino.top",
+      "name": "谷歌搜索"
+   },
+   {
+      "icon": "Cloud",
+      "link": "https://image.api.kafuchino.top/api",
+      "name": "随机壁纸"
+   },
+   {
+      "icon": "Compass",
+      "link": "https://mikutap.edgeone.site",
+      "name": "Mikutap"
+   }
 ]
