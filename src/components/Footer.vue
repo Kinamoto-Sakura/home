@@ -27,6 +27,8 @@
           {{ siteIcp }}
           </a>
         </span>
+          &amp;
+          <a href="https://beian.miit.gov.cn" target="_blank">冀ICP备2024090725号</a>
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
