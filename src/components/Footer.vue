@@ -29,9 +29,6 @@
         </span>
           &amp;
           <a href="https://beian.miit.gov.cn" target="_blank">冀ICP备2024090725号</a>
-        </span>
-          &amp;
-          <a href="https://beian.mps.gov.cn/#/query/webSearch?code=13073302000040" target="_blank">冀公网安备13073302000040</a>
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
